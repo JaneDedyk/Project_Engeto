@@ -1,4 +1,4 @@
-
+-- tvorba primární tabulky
 
 CREATE OR REPLACE TABLE t_JANA_DEDYKOVA_project_SQL_primary_final AS
 	WITH payroll_by_branch_and_year AS (
