@@ -16,7 +16,7 @@ Uvětšiny odvětví mají mzdy spíše rostoucí trend a to až na rok 2013, kd
 
 #### 2)    Kolik je možné si koupit litrů mléka akilogramů chleba za první a poslední srovnatelné období v dostupných datech cena mezd?
 
-Vroce 2006 bylo v průměru možné koupit 679 litrů mléka a kilogramů chleba a vroce 2018 skoro o 60 litrů mléka a kilogramů chleba více a to konkrétně 738.
+Pro každou komoditu a rok je vytvořen samostatný příkaz, který vrátí množství dané komodity, které je možné koupit v daný rok.
 
 #### 3)    Která kategorie potravin zdražujenejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 
